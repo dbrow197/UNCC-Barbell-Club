@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c98c5344-0b31-4bef-aaa9-d8b7d44965c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/UNCC-Barbell-Club.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnccBC/BCjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/UnccBC/BCjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnccBC/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UnccBC/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnccBC/UnccCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/UnccBC/UnccCss.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +19,7 @@
   <component name="ProjectId" id="1RADCNZfxxN29jxPaSfAr6K0RSs" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -46,7 +46,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569100878381</updated>
-      <workItem from="1569100879591" duration="43000" />
+      <workItem from="1569100879591" duration="301000" />
+      <workItem from="1569168016939" duration="1286000" />
     </task>
     <servers />
   </component>
@@ -58,7 +59,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
